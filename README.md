@@ -7,7 +7,10 @@ This is an Android application featuring a simple game where players must follow
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-
+- [MenuActivity](#MenuActivity)
+- [GameActivity](#GameActivity)
+- [Sequence of Directions](#Sequence of Directions)
+- [example](#example)
 
 ## Features
 
