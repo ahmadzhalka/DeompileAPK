@@ -7,7 +7,6 @@ This is an Android application featuring a simple game where players must follow
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Game Logic](#game-logic)
 
 
 ## Features
