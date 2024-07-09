@@ -8,8 +8,7 @@ This is an Android application featuring a simple game where players must follow
 - [Installation](#installation)
 - [Usage](#usage)
 - [Game Logic](#game-logic)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
